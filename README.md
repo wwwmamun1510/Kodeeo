@@ -1,4 +1,4 @@
-Kodeeo
+Kodeeo(E-Commerce Project)
 
 Its a E-Commerce Project .A brief description of what this project does and who it's for User
 ![js-1](https://user-images.githubusercontent.com/97294949/212993229-f7ec515d-d132-489c-9fe0-7f10fa7cfc27.GIF)
