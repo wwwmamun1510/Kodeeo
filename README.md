@@ -1,6 +1,6 @@
 Kodeeo
 
-Its a E-Commerce Project .A brief description of what this project does and who it's for
+Its a E-Commerce Project .A brief description of what this project does and who it's for User
 ![js-1](https://user-images.githubusercontent.com/97294949/212993229-f7ec515d-d132-489c-9fe0-7f10fa7cfc27.GIF)
 ![js-2](https://user-images.githubusercontent.com/97294949/212993290-db5bec1b-6aa5-483e-bfe8-c031986e4f9e.GIF)
 ![js-3GIF](https://user-images.githubusercontent.com/97294949/212993335-6d23dd10-3892-4723-8778-4c3ecd704c0e.GIF)
