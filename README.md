@@ -30,12 +30,12 @@ Javascript, HTML, CSS...
 
 Install my-E-Commerce project with Gitbash
 //First Project Installation Command
-composer create-project laravel/laravel Kodeeo
-Composer require laravel/ui
-php artisan ui bootstrap --auth
-npm Install
-npm run dev
-php artisan migrate
+composer create-project laravel/laravel Kodeeo//
+Composer require laravel/ui//
+php artisan ui bootstrap --auth//
+npm Install//
+npm run dev//
+php artisan migrate//
 //End Installation
 
 ```bash
